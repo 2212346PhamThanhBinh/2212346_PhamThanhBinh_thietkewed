@@ -1,0 +1,7 @@
+blockquote {
+    border: 4px dashed;
+    padding: 10px;
+    color: #36dfaf;
+    background-color: #2dc98d;
+    background-clip: content-box;
+  }
